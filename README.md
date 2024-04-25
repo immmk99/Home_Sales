@@ -1,6 +1,5 @@
 # Home_Sales
  
-Home Sales Analysis Project: PySpark Execution Summary**
 
 ### Project Overview
  this project utilized PySpark to perform a comprehensive analysis of home sales data. The goal was to uncover trends in home prices based on various characteristics such as the number of bedrooms, bathrooms, floors, and view ratings.
