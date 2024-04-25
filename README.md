@@ -13,7 +13,7 @@
     - Evaluated the average price per "view" rating for homes priced at or above $350,000.
 
 - **Performance Optimization**
-  - Implemented caching for the `home_sales` temporary table to enhance query performance.
+  - Implemented caching for the home_sales temporary table to enhance query performance.
   - Compared runtimes of the same query on cached vs. non-cached data.
   - Partitioned the data by the "date_built" field and assessed the impact on query execution speed.
 
